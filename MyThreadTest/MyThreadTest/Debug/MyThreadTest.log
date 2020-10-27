@@ -1,0 +1,3 @@
+﻿  MyThreadTest.cpp
+C:\Users\user-pc\source\repos\MyThreadTest\MyThreadTest\MyThreadTest.cpp(19,12): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::thread::id'입니다.
+  MyThreadTest.vcxproj -> C:\Users\user-pc\source\repos\MyThreadTest\Debug\MyThreadTest.exe
